@@ -1,0 +1,15 @@
+admin
+kullanýcý adý: serdar
+þifre: 1234
+---------
+chef
+kullanýcý adý: merve
+þifre: 1234
+-----------
+staff
+kullanýcý adý: eda
+þifre: 1234
+
+
+sql database 
+DataBse adlý klasördedir.
